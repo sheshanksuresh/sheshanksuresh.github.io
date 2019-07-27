@@ -45,8 +45,8 @@ i{
 	padding-left: 15px;
 	padding-right: 15px;
 	padding-top: 10px;
-    opacity: 0.8;
-    transition: 0.8s;
+    opacity: 5;
+    transition: 0.3s;
 }
 
 i:hover{
